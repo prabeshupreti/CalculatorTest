@@ -15,7 +15,7 @@ namespace TestProject2
             int result = calc.Add(4, 5);
 
             //Assert
-            Assert.AreEqual(90, result, "Test is has wild errors.");
+            Assert.AreEqual(9, result, "Test is has wild errors.");
         }
     }
 }
